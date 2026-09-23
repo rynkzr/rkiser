@@ -77,8 +77,8 @@ html {
 }
 #project .card-img-top {
     width: 100%;
-    height: 200px;
+    max-height: 200px;
     object-fit: contain;
-    background-color: #f2f2f2; /* optional, looks clean */
-    padding: 10px; /* optional, prevents touching edges */
+    background-color: #f2f2f2;
+    padding: 10px;
 }
