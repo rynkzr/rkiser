@@ -4,6 +4,12 @@
     padding: 0;
     font-family: 'Product Sans', sans-serif;
 }
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
 #welcome{
     background-color: #150734;
     padding-top: 150px;
